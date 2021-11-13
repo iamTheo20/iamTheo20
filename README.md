@@ -19,6 +19,10 @@
 
 ### Proficient Languages
 
+- Python
+- C#
+- C
+- Java
 
 ---
 
