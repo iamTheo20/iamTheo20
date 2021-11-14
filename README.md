@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning civil engineer in information teknology.
 - 👯 I’m looking to collaborate on nothing atm.
 - 💬 Ask me about anything related to the languages i am proficient with.
-- 📫 How to reach me: 
+- 📫 How to reach me: theo.n.dev@gmail.com
 - ⚡ Fun fact: i started with coding when i was 14.
                                                                                                                              
 <br />
