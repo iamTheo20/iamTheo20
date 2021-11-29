@@ -16,13 +16,16 @@
 
 <br />
 
-
+ 
 ### Proficient Languages
 
-- Python
-- C#
-- C
-- Java
+
+<img title="Python" align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img title="C#" align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img title="C" align="left"  alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img title="java" align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<br />
+
 
 ---
 
