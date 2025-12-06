@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning civil engineer in information teknology.
+- 🌱 I’m currently studying engineer in information teknology.
                                                                                                                             
 <br />
 <br />
