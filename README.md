@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently studying engineer in IT.
-- 
 ### Proficient Languages
 
 <a href="https://github.com/iamTheo20/Python">
